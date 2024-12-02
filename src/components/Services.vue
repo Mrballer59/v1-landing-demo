@@ -94,7 +94,6 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 
-import { Badge } from '@/components/ui/badge';
 import { Truck, Timer, Shield, MapPin } from 'lucide-vue-next';
 
 interface ServiceProps {

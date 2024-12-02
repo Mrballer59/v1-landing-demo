@@ -64,7 +64,7 @@ const handleClick = () => {
 <script setup lang="ts">
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { Gift, ArrowRight, Mail, Timer } from 'lucide-vue-next';
+import { Gift, ArrowRight, Timer } from 'lucide-vue-next';
 
 const handleClick = () => {
   window.location.href = 'https://mrniceguyfleur.com/shop';
